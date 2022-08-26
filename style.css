@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.headerbodysection{
+    width: 100%;
+    background-color: rgb(175, 175, 175);
+    
+   
+}
+.mainheader{
+    display: flex;
+    justify-content: space-between;
+    padding: 11px 42px 13px 60px;
+}
+.headermenu {
+
+display: flex;
+list-style: none;
+}
+.headermenu li{
+    padding: 8px;
+}
+
+
+/* end */
+.leftSideDiv{
+    width: 24%;
+    padding: 15px;
+    background-color: rgb(221, 221, 221);
+    
+}
+.profilepic img{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+   
+}
+.maintopic p{
+    margin-bottom: 10px;
+}
+/* end */
+.rightsidediv{
+    width: 75%;
+    
+    background-color: rgb(202, 202, 202);
+}
+.coverpic img{
+height: px;
+width:200px;
+margin-left: 20px;
+}
+.blogdetails{
+    margin-left: 20px;
+    
+    
+}
+.mainlogodiv{
+    display: flex;
+    padding: 8px;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+}
+
+.mainDiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 150px;
+}
